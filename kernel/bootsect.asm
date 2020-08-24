@@ -45,7 +45,7 @@ start:
     jmp dword BASE:0
 
 
-msgDebut: db "Chargement du kernel", 13, 10, 0
+msgDebut: db "Chargement du kernel Minti", 13, 10, 0
 
 bootdrv: db 0
 
